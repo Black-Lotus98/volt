@@ -1,0 +1,123 @@
+/* .barcodeCard {
+    perspective: 100rem;
+    -moz-perspective: 100rem;
+    position: relative;
+    height: 36rem;
+}
+.barCodeForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    font-size: 1.2rem;
+    font-weight: bold;
+    position: absolute;
+    display: inline-block;
+    transform: translate(-50%, -27%);
+}
+.barcodeCard__side {
+    height: 36rem;
+    transition: all 1s ease-out;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
+}
+
+*/
+
+.barcodeImage {
+    width: 15rem;
+    height: 4.5rem;
+}
+
+
+
+.barcodeCard__picture {
+    margin-left: -1px;
+    background-size: cover;
+    height: 14.5rem;
+    background-blend-mode: screen;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+
+.barcodeCard__picture--volt {
+    background-image: linear-gradient(to right bottom, rgba(1, 6, 72, 0), rgba(24, 208, 0, 0)),
+        url(/assets/images/backgrounds/BarcodeVolt.png);
+}
+
+/*
+.barcodeCard__details {
+    padding: 3rem;
+}
+
+.barcodeCard__details ul {
+    list-style: none;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.barcodeCard__details ul li {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+.barcodeCard__details ul li:not(:last-child) {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.bttn,
+.bttn:link,
+.bttn:visited {
+    text-decoration: none;
+    padding: 1rem;
+    display: inline-block;
+    border-radius: 10rem;
+    transition: all 0.2s;
+    position: relative;
+    border: none;
+    cursor: pointer;
+    width: 15rem;
+}
+
+.bttn:hover {
+    transform: translateY(-0.3rem);
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.7);
+}
+
+.bttn:hover::after {
+    transform: scale(1.4, 1.6);
+    opacity: 0;
+}
+
+.bttn:active,
+.bttn:focus {
+    outline: none;
+    transform: translateY(-0.1rem);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+}
+
+.bttn--volt:hover {
+    color: white;
+}
+
+.bttn--volt {
+    background-color: #010648;
+    color: #fff;
+}
+
+.bttn--volt::after {
+    background-color: #010648;
+    color: #fff;
+} */

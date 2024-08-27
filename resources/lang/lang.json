@@ -1,0 +1,62 @@
+{
+    "lang": {
+        "en": "en",
+        "ar": "ar"
+    },
+    "language": {
+        "en": "English",
+        "ar": "عربي"
+    },
+    "search": {
+        "en": "Search",
+        "ar": "بحث"
+    },
+    "MENU": {
+        "en": "MENU",
+        "ar": "القائمة"
+    },
+    "Dashboard": {
+        "en": "Dashboard",
+        "ar": "الرئيسية"
+    },
+    "Dashboard ": {
+        "en": "Dashboard",
+        "ar": "الرئيسية"
+    },
+    "Barcode Generator": {
+        "en": "Barcode Generator",
+        "ar": "اصدار باركود"
+    },
+    "Barcode Records": {
+        "en": "Barcode Records",
+        "ar": "سجلات الباركود"
+    },
+    "Clients": {
+        "en": "Clients",
+        "ar": "العملاء"
+    },
+    "All Clients": {
+        "en": "All Clients",
+        "ar": "جميع العملاء"
+    },
+    "Add Client": {
+        "en": "Add Client",
+        "ar": "اضافة عميل"
+    },
+    "Source Company": {
+        "en": "Source Company",
+        "ar": "ألشركة المصدر اليها"
+    },
+    "Reference Number": {
+        "en": "Reference Number",
+        "ar": "الرقم المرجعي"
+    },
+    "Number to generate": {
+        "en": "Number to generate",
+        "ar": "العدد المراد اصداره"
+    },
+    "Generate Barcodes": {
+        "en": "Generate Barcodes",
+        "ar": "اصدار باركود"
+    }
+}
